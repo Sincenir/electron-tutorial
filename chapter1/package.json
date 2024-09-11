@@ -1,0 +1,19 @@
+{
+  "name": "game-launcher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": ">=20.16.0"
+  },
+  "keywords": [],
+  "author": "Sincenir",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^32.0.2"
+  }
+}
